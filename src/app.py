@@ -169,7 +169,7 @@ graph = dbc.Card(
 
 """Layout"""
 app.layout = html.Div(
-    [heading, dbc.Row([dbc.Col(control_panel, md=3), dbc.Col(graph, md=9)])]
+    [heading, dbc.Row([dbc.Col(control_panel, md=4), dbc.Col(graph, md=8)])]
 )
 
 
