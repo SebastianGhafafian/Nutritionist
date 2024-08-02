@@ -26,7 +26,7 @@ with open("../data/recipes.json", encoding="utf-8", mode="r") as openfile:
 ingredient_table_data = pd.DataFrame({"Ingredient": [], "Amount": []})
 
 
-app = Dash(__name__, external_stylesheets=[dbc.themes.SPACELAB, ".assets/custom.css"])
+app = Dash(__name__, external_stylesheets=[dbc.themes.SPACELAB, "../assets/custom.css"])
 server = app.server
 
 
