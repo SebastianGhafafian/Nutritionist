@@ -1,6 +1,5 @@
 # Nutritionist
 
-<img src="assets/img/Pie.png" width="600" /> 
 <img src="assets/img/Overview.PNG" width="600" /> 
 # :memo: Description
 
