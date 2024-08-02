@@ -1,7 +1,7 @@
 # Nutritionist
 
-<img src=".assets/img/Pie.png" width="600" /> 
-<img src=".assets/img/Overview.png" width="600" /> 
+<img src="./assets/img/Pie.png" width="600" /> 
+<img src="./assets/img/Overview.png" width="600" /> 
 # :memo: Description
 
 This project is about a dashboard app built in Dash about the nutritional value of food. It let's the user load, modify and create recipes. The app displays the nutritional value of a serving in comparison to the daily limits.
